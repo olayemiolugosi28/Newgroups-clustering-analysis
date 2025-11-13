@@ -58,13 +58,13 @@ This will generate:
 ## Visualizations
 
 ### Elbow Method
-![Elbow Method](visualizations/elbow_method.png)
+![Elbow Method](elbow_method.png)
 
 ### PCA Clustering Visualization
-![PCA Visualization](visualizations/pca_clustering_visualization.png)
+![PCA Visualization](pca_clustering_visualization.png)
 
 ### Dendrogram
-![Dendrogram](visualizations/dendrogram.png)
+![Dendrogram](dendrogram.png)
 
 ## Files Description
 
